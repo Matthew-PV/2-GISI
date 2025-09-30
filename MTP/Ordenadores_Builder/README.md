@@ -51,6 +51,6 @@ Ordenador con 8 GB DDR5 de RAM, 512 GB SSD de almacenamiento y 24' OLED de panta
 ## ⚖️ Licencia
 
 Este proyecto está protegido bajo la **Licencia Apache 2.0**.
-Consulta el archivo [LICENSE](https://github.com/Matthew-PV/2-GISI/blob/d80721cd96d628d3574ac5bd21bf25900ca121dc/LICENSE) para más detalles.
+Consulta el archivo [LICENSE](https://github.com/Matthew-PV/2-GISI/blob/c5374a3c69f0b074387cec53009d4eabc270ffb6/LICENSE) para más detalles.
 
 ---
