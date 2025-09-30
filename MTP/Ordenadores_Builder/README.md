@@ -32,27 +32,9 @@ Se han creado los siguientes elementos principales:
 
 ## 📊 Diagrama UML
 
-Aquí se muestra un espacio reservado para el diagrama UML generado con **PlantUML**:
+Aquí se muestra un espacio reservado para el diagrama UML:
 
 ![Diagrama UML.png](Diagrama%20UML.png)
-
----
-
-## 🚀 Ejecución
-
-Compila y ejecuta el proyecto con los siguientes pasos:
-
-⭐ Compilar todas las clases:
-
-```
-javac *.java
-```
-
-⭐ Ejecutar la clase principal:
-
-```
-java Main
-```
 
 ---
 
@@ -71,6 +53,6 @@ Ordenador con 8 GB DDR5 de RAM, 512 GB SSD de almacenamiento y 24' OLED de panta
 ## ⚖️ Licencia
 
 Este proyecto está protegido bajo la **Licencia Apache 2.0**.
-Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Consulta el archivo [LICENSE](https://github.com/Matthew-PV/2-GISI/blob/d80721cd96d628d3574ac5bd21bf25900ca121dc/LICENSE) para más detalles.
 
 ---
