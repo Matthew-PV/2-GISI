@@ -4,6 +4,8 @@
 
 Este proyecto implementa el **Patrón de Diseño Builder** en Java para construir diferentes configuraciones de un objeto `Ordenador` (tipo A, B y C) de manera estructurada y flexible.
 
+Realizado por Luis Holgado y Matthew Puente-Villegas.
+
 ---
 
 ## 📌 Descripción
