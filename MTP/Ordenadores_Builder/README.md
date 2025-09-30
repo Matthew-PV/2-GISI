@@ -40,8 +40,6 @@ Aquí se muestra un espacio reservado para el diagrama UML:
 
 ## 📋 Ejemplo de Salida
 
-⭐
-
 ```
 Ordenador con 8 GB DDR4 de RAM, 512 GB de HDD de almacenamiento y 20' LED de pantalla.
 Ordenador con 16 GB DDR4 de RAM, 1 TB HDD de almacenamiento y 22' LED de pantalla.
