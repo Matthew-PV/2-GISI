@@ -7,14 +7,12 @@ public class Main {
 
         System.out.println("Distancia en EU - - - - - -");
         DistanciaEU dEU = new DistanciaEU();
-        dEU.setAvrgSpeed(velEjemplo); //En kmh
-        dEU.distanciaMaxima();
+        dEU.setAvrgSpeed(velEjemplo).distanciaMaxima(); //En kmh
 
         System.out.println();
 
         System.out.println("Distancia en California - -");
         AdaptadorDistanciaCalifornia dCalifornia = new AdaptadorDistanciaCalifornia();
-        dCalifornia.setAvrgSpeed(velEjemplo);
-        dCalifornia.distanciaMaxima();
+        dCalifornia.setAvrgSpeed(velEjemplo).distanciaMaxima(); //En mph
     }
 }

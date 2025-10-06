@@ -5,13 +5,13 @@ public class AdaptadorDistanciaCalifornia extends Distancia implements AvrgSpeed
 
     // Getters y Setters:
     @Override
-    public AvrgSpeed setAvrgSpeed(double avrgSpeed) {
-        californiaDistance.setAverageSpeed(avrgSpeed / 1.60934);
+    public AdaptadorDistanciaCalifornia setAvrgSpeed(double avrgSpeed) {
+        californiaDistance.setAverageSpeed(avrgSpeed / 1.60934); //Aquí se controla la conversión a millas.
         return this;
     }
     @Override
     public double getAvrgSpeed() {
-        return californiaDistance.getAverageSpeed() * 1.60934;
+        return californiaDistance.getAverageSpeed() * 1.60934; //Aquí se controla la conversión a kilómetros.
     }
 
     // Métodos:

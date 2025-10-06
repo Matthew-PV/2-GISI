@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PatronesEstructurales/Adapter-Distancias/Adapter-Distancias.iml" filepath="$PROJECT_DIR$/PatronesEstructurales/Adapter-Distancias/Adapter-Distancias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatronesEstructurales/Adapter-Musica/Adapter-Musica.iml" filepath="$PROJECT_DIR$/PatronesEstructurales/Adapter-Musica/Adapter-Musica.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatronesCreacion/Animal Factory/Animal Factory.iml" filepath="$PROJECT_DIR$/PatronesCreacion/Animal Factory/Animal Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MTP.iml" filepath="$PROJECT_DIR$/.idea/MTP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatronesCreacion/Ordenadores_Builder/Ordenadores_Builder.iml" filepath="$PROJECT_DIR$/PatronesCreacion/Ordenadores_Builder/Ordenadores_Builder.iml" />

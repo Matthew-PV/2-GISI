@@ -18,10 +18,6 @@ public class DistanciaEU extends Distancia implements AvrgSpeed {
         }
         return this;
     }
-    @Override
-    public double getAvrgSpeed() {
-        return velMedia;
-    }
 
     // Métodos:
     @Override
