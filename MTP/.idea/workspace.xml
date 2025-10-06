@@ -5,42 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2681f847-b47a-4547-8845-9a8e1b1bcea7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatronesCreacion/PatronesCreacion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatronesEstructurales/Adapter-Distancias/Adapter-Distancias.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatronesEstructurales/PatronesEstructurales.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animal Factory/Animal Factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Animal Factory/Animal Factory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ordenadores_FM_AF/Ordenadores_FM_AF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ordenadores_FM_AF/Ordenadores_FM_AF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pizzeria_FM_AF/Pizzeria_FM_AF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pizzeria_FM_AF/Pizzeria_FM_AF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prototype_Movistar/Prototype_Movistar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prototype_Movistar/Prototype_Movistar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/Ordenador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/OrdenadorBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/OrdenadorDirector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/OrdenadorTipoA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/OrdenadorTipoB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_Builder/OrdenadorTipoC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/DDR4_16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/DDR4_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/DDR5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/DiscoDuro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/HDD1TB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/HDD512GB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/OrdenadorA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/OrdenadorB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/OrdenadorC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/Pantalla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/Pantalla20LED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/Pantalla22LED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/Pantalla24_OLED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/RAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/SSD512GB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ordenadores_FM_AF/AbstractFactory/TiendaOrdenadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatronesCreacion/Ordenadores_Builder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PatronesCreacion/Ordenadores_Builder/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -58,9 +43,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "22",
+    "onboarding.tips.debug.path": "C:/Users/Matt/dev/school/2-GISI/MTP/PatronesCreacion/Pizzeria_FM_AF/src/FactoryMethod/Pizzas/PizzaBarbacoa.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Matt\dev\school\2-GISI\MTP\PatronesCreacion" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,5 +65,16 @@
       <updated>1759424658433</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PatronesCreacion/Pizzeria_FM_AF/src/FactoryMethod/Pizzas/PizzaBarbacoa.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

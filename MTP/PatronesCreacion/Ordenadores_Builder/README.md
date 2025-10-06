@@ -36,7 +36,7 @@ Se han creado los siguientes elementos principales:
 
 Aquí se muestra un espacio reservado para el diagrama UML:
 
-![Diagrama UML.png](Diagrama%20UML.png)
+![Diagrama UML.png](Diagrama UML.png)
 
 ---
 
