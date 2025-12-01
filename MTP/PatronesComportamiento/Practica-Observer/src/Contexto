@@ -1,0 +1,10 @@
+El proyecto tendrá la temática de videojuegos, indicando la necesidad de interactuar entre objetos.
+
+Tendremos Puerta, Enemigos, Jugador, el Notificador y su interfaz correspondiente.
+
+- Cuando spawnea un enemigo, se notifica a la puerta e incrementa un counter de la puerta.
+    Cuando este counter llegue a 0, se abre la puerta (avanza).Cuando este
+    counter llegue a 0, se abre la puerta (avanza).
+- Cuando muere un enemigo, se vuelve a notificar, reduciendo el counter.
+    Además, aumenta una variable de enemigos. Finalmente, el jugador gana experiencia.
+    (Esto para enseñar que la notificación también se hace a nivel interno)

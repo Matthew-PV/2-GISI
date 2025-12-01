@@ -1,5 +1,5 @@
 public class OrdenadorDirector {
-    private OrdenadorBuilder builder;
+    private final OrdenadorBuilder builder;
 
     //Constructor:
     public OrdenadorDirector(OrdenadorBuilder builder) {
