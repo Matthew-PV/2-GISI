@@ -59,7 +59,7 @@ public class Main {
                         break;
                     case 2:
                         do {
-                            System.out.println("Selecciona consulta: \n1. SELECT * FROM city \n2. SELECT id, name, countrycode, district, population FROM city WHERE countrycode LIKE %S%\n3. Salir\nOpción: ");
+                            System.out.println("Selecciona consulta: \n1. SELECT * FROM city \n2. SELECT id, name, countrycode, district, population FROM city WHERE countrycode LIKE '%S%'\n3. Salir\nOpción: ");
                             opcion2 = sc.nextInt();
                             sc.nextLine();
 
@@ -70,8 +70,7 @@ public class Main {
                                     myStatement.close();
                                     break;
                                 case 2:
-                                    myStatement = conexion.prepareStatement("SELECT id, name, countrycode, district, population" +
-                                            "FROM city WHERE countrycode LIKE ?");
+                                    myStatement = conexion.prepareStatement("SELECT id, name, countrycode, district, population FROM city WHERE countrycode LIKE ?;");
                                     myStatement.setString(1, "%S%");
                                     ejecutar(myStatement);
                                     myStatement.close();
